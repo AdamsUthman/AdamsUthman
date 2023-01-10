@@ -28,7 +28,7 @@ I am a Software Engineer, with a passion for developing apps to solve modern-day
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
-<a href="https://www.azure.com/" target="_blank" rel="noreferrer"><img src="https://github.com/AdamsUthman/AdamsUthman/blob/main/Microsoft_Azure.svg" width="50" height="50" alt="Azure" /></a>
+<a href="https://www.azure.com/" target="_blank" rel="noreferrer"><img src="https://github.com/AdamsUthman/AdamsUthman/blob/main/Microsoft_Azure.svg" width="36" height="36" alt="Azure" /></a>
 
 </p>
 
