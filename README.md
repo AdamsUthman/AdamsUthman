@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer. UI/UX Designer
 ---------------------------------
 
-I am a Software Engineer, with a passion for developing apps to solve modern-day problems. I am currently completing my master's at the University of Essex Online and also a Software Engineering BootCamp at ALX
+I am a Software Engineer and UI/UX Designer, with a passion for developing applications and software to solve modern-day problems. I am currently completing my master's at University of Essex Online and also a Software Engineering BootCamp at ALX.
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My portfolio based on the work done during my masters at University of Essex Online](http://adamsuthman.github.io/adamsuthman-University_of_Essex_eportfolio/)
