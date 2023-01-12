@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Software Engineer. UI/UX Designer
 ---------------------------------
-
+<img align= "right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/320984a9ca58b3c73274c9259ecf6de8.gif">
 I am a Software Engineer and UI/UX Designer, with a passion for developing applications and software to solve modern-day problems. I am currently completing my master's at University of Essex Online and also a Software Engineering BootCamp at ALX.
 
 * 🌍  I'm based in Nigeria
